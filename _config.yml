@@ -2,7 +2,7 @@ title: Quran Explained
 email: ""
 description: Quran is the final book from God. Islam is derived from this book only and no other book should override it. The Quran explains all the information in detail.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://thetruthisquran.github.io/quran-explained/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thetruthisquran
 github_username:  thetruthisquran
 rss: rss
